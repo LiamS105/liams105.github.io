@@ -1,7 +1,7 @@
 # ----
 # Site
 
-title: Hydra Template
+title: Liam Sullivan
 url: "https://proud-alligator.cloudvent.net"
 baseurl:
 google_analytics_key:
@@ -14,7 +14,7 @@ description: Product marketing template for Jekyll.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  linkedin: # twitter username without the @ symbol
 social:
   name: Hydra Template
   links:
