@@ -6,30 +6,18 @@ categories:
 author_staff_member: Liam
 ---
 
-Direct selling is the marketing and selling of products directly to consumers away from a fixed retail location. Peddling is the oldest form of direct selling. Modern direct selling includes sales made through the party plan, one-on-one demonstrations, and other personal contact arrangements as well as internet sales.
-
-![Checkmate](https://source.unsplash.com/random/1500x1145)
 ![Image](/images/biasBuster1.jpg)
-## Textbook definition
+## Product Overview
 
-A textbook definition is: "The direct personal presentation, demonstration, and sale of products and services to consumers, usually in their homes or at their jobs."
+The product is a browser extension that will assist social media users in navigating online news by identifying false or sensationalist information. Users will turn on the extension while reading an online article. The extension highlights questionable sources and words associated with sensationalism. If there are too many highlights then the user will understand that the source may be inaccurate or prioritize political opinion over factual information.
 
-## How effective is direct selling?
+## User Journey
 
-Industry representative, the World Federation of Direct Selling Associations (WFDSA), reports that its 59 regional member associations accounted for more than US$183 billion in retail sales in 2014, through the activities of more than 62 million independent sales representatives. The United States Direct Selling Association (DSA) reported that in 2000, 55% of adult Americans had at some time purchased goods or services from a direct selling representative and 20% reported that they were currently(6%) or had been in the past(14%) a direct selling representative.
+![Image](/images/biasJourney1.jpg)
+![Image](/images/biasJourney2.jpg)
 
-![Office](https://source.unsplash.com/random/1500x1146)
+The user will be browsing social media or be looking up recent event when they find and click on a news article.
 
-According to the WFDSA, consumers benefit from direct selling because of the convenience and service it provides, including personal demonstration and explanation of products, home delivery, and generous satisfaction guarantees. In contrast to franchising, the cost for an individual to start an independent direct selling business is typically very low with little or no required inventory or other cash commitments to begin.
 
-Most direct selling associations around the world require their members to abide by a code of conduct towards a fair partnership both with customers and salesmen...
-
-Most national direct selling associations are represented in the World Federation of Direct Selling Associations (WFDSA).
-
-## How's it different to marketing?
-
-Direct selling is distinct from direct marketing because it is about individual sales agents reaching and dealing directly with clients. Direct marketing is about business organizations seeking a relationship with their customers without going through an agent/consultant or retail outlet.
-
-Direct selling consists of two main business models: single-level marketing, in which a direct seller makes money by buying products from a parent organization and selling them directly to customers, and multi-level marketing (also known as network marketing or person-to-person marketing), in which the direct seller makes money from both direct sales to customers and by sponsoring new direct sellers and earning a commission from their efforts.
-
-![Raspberries](https://source.unsplash.com/random/1500x1147)
+## Design Guidliness
+![Image](/images/biasBrand.jpg)
