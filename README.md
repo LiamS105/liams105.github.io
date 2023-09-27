@@ -59,6 +59,10 @@ Run `jekyll` commands through Bundler to ensure you're using the right versions:
 $ bundle exec jekyll serve
 ~~~
 
+To run with live reload
+
+```bundle exec jekyll serve --livereload```
+
 ## Editing
 
 Hydra is already optimised for adding, updating and removing pages, staff, advice, company details and footer elements in CloudCannon.
